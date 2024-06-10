@@ -30,10 +30,10 @@ http://34.175.24.171:8080/scrape?address=$address&selectedFuel=$fuel&radius=$rad
 
 ## API Endpoints
 
-vEste endpoint acepta tres parámetros: address (dirección para la búsqueda), selectedFuel (tipo de combustible), y radius (radio de búsqueda en kilómetros). Retorna un JSON con los datos de las gasolineras encontradas.
+Este endpoint acepta tres parámetros: address (dirección para la búsqueda), selectedFuel (tipo de combustible), y radius (radio de búsqueda en kilómetros). Retorna un JSON con los datos de las gasolineras encontradas.
 
-@@Contribuciones
+# Contribuciones
 Las contribuciones son bienvenidas. Si deseas mejorar la aplicación, considera clonar el repositorio y realizar tus cambios.
 
-Licencia
+# Licencia
 Distribuido bajo la licencia MIT. Ver LICENSE para más información.
